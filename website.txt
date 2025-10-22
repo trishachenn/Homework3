@@ -1,0 +1,7 @@
+Trisha Chennuru
+October 22, 2024
+DS4200
+https://trishachenn.github.io/Homework3/
+In the style.css file, I customized the website’s appearance to create a clean, professional, and visually appealing layout. 
+First, I applied a global font style by setting the font-family to Arial, sans-serif for the entire website, ensuring readability and consistency across all pages. For the color scheme, I chose a dark background for the header and footer sections, which contrasted with white text, looks really clean and easy to read.
+The body background was set to a lighter color making the content area easier to read. To further enhance the layout, I added custom padding and margins to the section and images which improves the flow of the page. All of these design elements provide a user-friendly experience with a polished appearance.
